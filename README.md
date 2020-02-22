@@ -1,7 +1,5 @@
 # Sudoku
 
-Sudoku game and sudoku solver for android.
-
 Main code is located in app/src/main/java.
 
 In "GameLogic" class located logic of sudoku(obviously).It can build sudoku level from affay of arrays of int.
