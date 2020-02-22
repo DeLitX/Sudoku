@@ -1,7 +1,5 @@
 # Sudoku
 
-Main code is located in app/src/main/java.
-
 In "GameLogic" class located logic of sudoku(obviously).It can build sudoku level from affay of arrays of int.
 Also,it saves all changes you done during your game.
 
